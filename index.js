@@ -4,7 +4,7 @@ app.use(express.json());
 app.get("/",(req,res)=>{
     res.send("Hello from Server")
 })
-app.get("/api",(req,res)=>{
+app.post("/api",(req,res)=>{
     res.send("Hello from API")
 })
 app.listen(5000,()=>{console.log("server running")});
