@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 
 
 // variables
-const LINK="mongodb+srv://niranjanrc20:niranjanrc20@cluster0.c4nuy4m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const LINK="mongodb+srv://niranjanrc20:niranjan1234@cluster0.a5adkms.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 
 
